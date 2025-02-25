@@ -1,5 +1,4 @@
 __Jacob Browne__
-\ 
 
 ![Nav1.9 BRET construct example](../img/bret_construct_1.png)
 
